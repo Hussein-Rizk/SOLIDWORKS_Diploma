@@ -9,16 +9,16 @@ This repository preserves the original **training materials, submitted tasks, ex
 ## 🎓 Certificate
 
 <p align="center">
-  <b>SOLIDWORKS / CSWA Certificate</b>
-</p>
-
-<p align="center">
   <a href="./SOLIDWORKS%20-%20CSWA%20Certificate.pdf">
-    📄 View Certificate
+    <img src="./CSWA_Certificate.png"
+         alt="SOLIDWORKS CSWA Certificate"
+         width="70%">
   </a>
 </p>
 
-> The original certificate PDF is included in this repository.
+<p align="center">
+  <b>Click the certificate to view the original PDF.</b>
+</p>
 
 ---
 
