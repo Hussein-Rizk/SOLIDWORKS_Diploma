@@ -10,7 +10,7 @@ This repository preserves the original **training materials, submitted tasks, ex
 
 <p align="center">
   <a href="./SOLIDWORKS%20-%20CSWA%20Certificate.pdf">
-    <img src="./CSWA_Certificate.png"
+    <img src="./SOLIDWORKS%20-%20CSWA%20Certificate.png"
          alt="SOLIDWORKS CSWA Certificate"
          width="70%">
   </a>
